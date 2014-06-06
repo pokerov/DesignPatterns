@@ -1,5 +1,5 @@
-DesignPatterns
-==============
+Design Patterns
+===============
 
 Source code for Design Patterns in Java
 
