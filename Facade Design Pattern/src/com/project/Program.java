@@ -16,6 +16,8 @@ import com.facades.ATMFacade;
  * concise or clear. Also it's not required to be working with Interface - a class type
  * can also serve with same purpose.
  * 
+ * Note: This is one of the various approaches to represent this pattern!
+ * 
  * @author Kristiyan
  *
  */
