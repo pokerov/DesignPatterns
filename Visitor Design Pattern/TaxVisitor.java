@@ -1,7 +1,8 @@
 import java.text.DecimalFormat;
 
 /**
- * TaxVisitor business logic for handling all operations
+ * TaxVisitor business logic for handling all operations.
+ * Be aware, this should use Generics, instead of concrete names!
  * Note: This can handle all overriden methods!
  */
 public class TaxVisitor implements Visitor {
